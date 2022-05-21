@@ -9,12 +9,12 @@
   
  **¿Qué recibe como entrada?**
    Los datos que recibo como entrada son:
-       1- Rol del comprador
-       2- Cedula del comprador
-       3- Codigo del producto
-       4- Cantidad del producto
-       5- Costo del producto (Por unidad)
-       6- Operacion que desea realizar (Comprar o salir del programa)
+       1. Rol del comprador
+       2. Cedula del comprador
+       3. Codigo del producto
+       4. Cantidad del producto
+       5. Costo del producto (Por unidad)
+       6. Operacion que desea realizar (Comprar o salir del programa)
  
  **¿Cuál sería su salida?**
     Al final del programa se imprime un mensaje que contienen: *rol, cedula, total a pagar y el código del producto*
